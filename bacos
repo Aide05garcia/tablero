@@ -1,0 +1,27 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+public class Barcos{
+    public static void main (String [] args){
+    ArrayList<Float> lol = new ArrayList<Float>();
+        Scanner in = new Scanner(System.in);
+        int j,c,f;
+        int columnas = 3;
+        int filas = 3 ;
+        float jugadores = 1;
+        System.out.println("ingresa los jugadores");
+        j = in.nextlnt();
+        for (int c = 3; c > f; c ++){
+        System.Out.printlnt("Caracter sin destapar");
+        System.Out.printlnt("Caracter destapado");
+        int caracter = in.nextlnt();
+        }
+        for (int f = 3; f < c; f ++){
+        System.Out.printlnt("Caracter destapado");
+        System.Out.printlnt("Caracter sindestapar");
+        int carater = in.nextlnt();
+        }
+        
+        }
+      
+      
+	}
